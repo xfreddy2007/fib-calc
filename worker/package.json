@@ -1,0 +1,13 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "fibonacci number array calculator worker",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "redis": "^4.7.0"
+  }
+}
